@@ -1,0 +1,20 @@
+.main{
+  margin: auto;
+  text-align: center;
+}
+
+#logo{
+  top:50%;
+  left:50%;
+  position:absolute;
+  transform:translate(-50%, -50%);
+}
+
+.mouse{
+  top:500px;
+  left:50%;
+  position:absolute;
+  transform:translate(-50%, -50%);
+  padding-top: 10%;
+}
+
