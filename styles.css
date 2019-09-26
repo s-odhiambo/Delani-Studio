@@ -1,6 +1,7 @@
 .main{
   margin: auto;
   text-align: center;
+  z-index: -400;
 }
 
 #logo{
