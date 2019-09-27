@@ -9,6 +9,7 @@
   left:50%;
   position:absolute;
   transform:translate(-50%, -50%);
+  /* height: 100%; */
 }
 
 .mouse{
@@ -21,18 +22,19 @@
 
 h1{
   color: whitesmoke;
-  font-size: 10px;
-  font-family: 'Quicksand', sans-serif;
+  font-size: 40px;
+  font-family: 'Aladin', cursive;
 }
 
 h2{
   text-align: center;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Aladin', cursive;
   padding-top: 9%;
 }
 
 h3{
   text-align: center;
+  font-family: 'Aladin', cursive;
 }
 
 h4{
@@ -57,6 +59,7 @@ h4{
 
 #serv > p{
   text-align: center;
+  
 }
 
 
@@ -69,6 +72,8 @@ h4{
 p{
   letter-spacing: 0px;
   font-size: 16px;
+  font-family: 'Aladin', cursive;
+  font-size: 20px;
 }
 
 #logo>h1{
