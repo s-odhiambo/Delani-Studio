@@ -1,3 +1,7 @@
+*{
+  
+}
+
 .main{
   margin: auto;
   text-align: center;
@@ -42,8 +46,12 @@ h3{
   font-family: 'Quicksand', sans-serif;
   color:whitesmoke;
   font-weight: 200;
+  z-index: -450px;
 }
 
+.text-center>img{
+  margin: 10px;
+}
 
 
 p{
