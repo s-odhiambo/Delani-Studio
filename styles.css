@@ -39,6 +39,15 @@ h3{
   text-align: center;
 }
 
+h4{
+  text-align: center;
+  background-image:url("images/c_image.jpg");
+  height: 500px;
+  background-size: cover;
+  padding: 40px;
+  color:whitesmoke;
+}
+
 #serv{
   background-image: url("images/s_image.jpg");
   height:50vh;
@@ -51,6 +60,7 @@ h3{
 
 .text-center>img{
   margin: 10px;
+  margin-left: 20px;
 }
 
 
