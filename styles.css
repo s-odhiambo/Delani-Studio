@@ -52,6 +52,8 @@ h3{
 
 h5{
   font-family: 'Aladin', cursive; 
+  text-align: center;
+  padding-top: 5%;
 }
 
 #serv{
@@ -81,7 +83,7 @@ p{
 }
 
 .port{
-  
+padding-top: 20%;  
 }
 
 .social{
