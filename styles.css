@@ -83,12 +83,16 @@ p{
 }
 
 .port{
-padding-top: 20%;  
+padding-top: 10%;  
 }
 
 .social{
   padding-left:35%;
   padding-top: 60px;
+}
+
+.del{
+  text-align: center;
 }
 
 
