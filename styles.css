@@ -37,7 +37,7 @@ h3{
   font-family: 'Aladin', cursive;
 }
 
-h4{
+.contact{
   text-align: center;
   background-image:url("images/c_image.jpg");
   height: 500px;
@@ -66,13 +66,6 @@ h5{
   
 }
 
-
-.text-center>img{
-  margin: 10px;
-  margin-left: 20px;
-}
-
-
 p{
   letter-spacing: 0px;
   font-size: 16px;
@@ -80,14 +73,12 @@ p{
   font-size: 20px;
 }
 
-#logo>h1{
-  font-size: 40px;
-  font-weight: 900;
+.text{
+  transform:translate(-5%, -5%);
+  /* padding-right: 40%; */
 }
-
-/* #form > form-group{
-  align-items: center;
- 
-} */
+.design-a,.develop-a,.prod-a{
+  display: none;
+}
 
 
