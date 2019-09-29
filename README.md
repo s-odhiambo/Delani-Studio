@@ -19,7 +19,7 @@ The products are always ready to be put out there since there is constant testin
 The project pricisely made with HTML and CSS making it easy to be viewed in any browser.i.e Chrome.
 You can git clone , extract and modify the website.
 
-##BDD
+## BDD
 
 Given the chance to go through the website,
 
