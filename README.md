@@ -12,6 +12,9 @@ They have a team that collaborates with the client and improve code using proven
 Management
 The products are always ready to be put out there since there is constant testing and coding.It makes the client responsive to change as the business is evolving.
 
+### Screenshot 
+<img src="https://github.com/s-odhiambo/Delani-Studio/blob/master/Screenshot%20from%202019-09-29%2021-30-10.png" width="1000">
+
 ## Setup
 The project pricisely made with HTML and CSS making it easy to be viewed in any browser.i.e Chrome.
 You can git clone , extract and modify the website.
